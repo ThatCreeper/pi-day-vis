@@ -1,0 +1,23 @@
+{
+  "name": "piday",
+  "version": "1.0.0",
+  "description": "PI Day Data Visualization",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "scrolling": "node scrolling/scrolling.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatCreeper/pi-day-vis.git"
+  },
+  "author": "ThatCreeper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatCreeper/pi-day-vis/issues"
+  },
+  "homepage": "https://github.com/ThatCreeper/pi-day-vis#readme"
+}
